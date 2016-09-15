@@ -1,0 +1,36 @@
+images
+  grille --> // Arrondis
+
+main.c
+    menu
+
+constantes.h
+    enum
+    taille fenêtre --> Affichage du score.
+    
+jeu.c + jeu.h
+fait : 
+//    grille
+//    placement des Cases
+//    cases avec le nombres
+//    changer gravité
+//    déplacer cases ( collisions)
+//    aleatoire : - 2 premières cases
+		- cases qui se rajoutent (2 ou 4) <-- Peut-être changer le rapport de chances. 
+		- détécter les cases vides.
+//    echec
+//    calcul du score
+//    affichage du score
+//	avec souris
+
+restant : 
+	cases qui se fusionnent plusieurs fois
+	ajouts de case lors de coups "qui bougent pas".
+	centrage texte
+	message highscore
+	Resize la grille...+ autre conf pour rasp + score qui bug rasp
+
+    ...
+    
+fichiers.c + fichiers.h
+    Enregistrer le score ?
