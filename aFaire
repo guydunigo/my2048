@@ -9,6 +9,7 @@ constantes.h
     taille fenêtre --> Affichage du score.
     
 jeu.c + jeu.h
+    tester si images existent au lieu de crasher...
 fait : 
 //    grille
 //    placement des Cases
